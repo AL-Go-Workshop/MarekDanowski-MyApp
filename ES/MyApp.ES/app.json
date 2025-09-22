@@ -1,44 +1,42 @@
-﻿{
-    "id":  "dd269f9e-735c-49b8-a3fd-52a91bf56607",
-    "name":  "MyApp.ES",
-    "publisher":  "MarekDanowski",
-    "version":  "1.0.0.0",
-    "brief":  "",
-    "description":  "",
-    "privacyStatement":  "",
-    "EULA":  "",
-    "help":  "",
-    "url":  "",
-    "logo":  "",
-    "dependencies":  [
-        {
-            "id":  "2fa733b0-39e4-4a5d-8687-61706995d5fc",
-            "name":  "Common",
-            "publisher":  "Freddy Kristiansen",
-            "version":  "1.0.0.0"
-        },
-        {
-            "id":  "c7912a7c-6dfa-4d59-8717-9e56b5dedd94",
-            "name":  "MyApp.W1",
-            "publisher":  "MarekDanowski",
-            "version":  "1.0.0.0"
-        }
-    ],
-    "screenshots":  [
-
-                    ],
-    "platform":  "1.0.0.0",
-    "application":  "25.0.0.0",
-    "runtime": "14.0",
-    "idRanges":  [
-                     {
-                         "from":  62000,
-                         "to":  63000
-                     }
-                 ],
-    "resourceExposurePolicy":  {
-                                   "allowDebugging":  true,
-                                   "allowDownloadingSource":  false,
-                                   "includeSourceInSymbolFile":  false
-                               }
+{
+  "id": "dd269f9e-735c-49b8-a3fd-52a91bf56607",
+  "name": "MyApp.ES",
+  "publisher": "MarekDanowski",
+  "version": "1.0.1.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "2fa733b0-39e4-4a5d-8687-61706995d5fc",
+      "name": "Common",
+      "publisher": "Freddy Kristiansen",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "c7912a7c-6dfa-4d59-8717-9e56b5dedd94",
+      "name": "MyApp.W1",
+      "publisher": "MarekDanowski",
+      "version": "1.0.1.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "runtime": "14.0",
+  "idRanges": [
+    {
+      "from": 62000,
+      "to": 63000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
 }
