@@ -1,7 +1,7 @@
 ﻿{
-    "id":  "DKGUID",
+    "id":  "0d69d2a5-0a7d-4ac7-b187-72d821cc5154",
     "name":  "MyApp.DK",
-    "publisher":  "PUBLISHERNAME",
+    "publisher":  "MarekDanowski",
     "version":  "1.0.0.0",
     "brief":  "",
     "description":  "",
@@ -18,9 +18,9 @@
             "version":  "1.0.0.0"
         },
         {
-            "id":  "W1GUID",
+            "id":  "c7912a7c-6dfa-4d59-8717-9e56b5dedd94",
             "name":  "MyApp.W1",
-            "publisher":  "PUBLISHERNAME",
+            "publisher":  "MarekDanowski",
             "version":  "1.0.0.0"
         }
     ],

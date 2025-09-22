@@ -1,7 +1,7 @@
 ﻿{
-    "id":  "ESGUID",
+    "id":  "dd269f9e-735c-49b8-a3fd-52a91bf56607",
     "name":  "MyApp.ES",
-    "publisher":  "PUBLISHERNAME",
+    "publisher":  "MarekDanowski",
     "version":  "1.0.0.0",
     "brief":  "",
     "description":  "",
@@ -18,9 +18,9 @@
             "version":  "1.0.0.0"
         },
         {
-            "id":  "W1GUID",
+            "id":  "c7912a7c-6dfa-4d59-8717-9e56b5dedd94",
             "name":  "MyApp.W1",
-            "publisher":  "PUBLISHERNAME",
+            "publisher":  "MarekDanowski",
             "version":  "1.0.0.0"
         }
     ],
